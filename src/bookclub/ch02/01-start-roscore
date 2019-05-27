@@ -1,0 +1,4 @@
+#!/bin/bashpwd
+
+# start roscore
+roscore
